@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Tango Application</string>
+
+    <string name="hello_world">Listado de eventos</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeText">Bienvenidos!! Aca podran encontrar todo acerca del TANGO en Medellin</string>
+    <string name="title_activity_events_list">Proximas Milongas y Eventos</string>
+    <string name="titleListText">Listado de eventos de Tango y Milongas</string>
+    <string name="title_activity_event_detail">Detalles del evento</string>
+</resources>
